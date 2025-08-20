@@ -1,5 +1,4 @@
 #Name: Daniel Lavdari
-#Email: daniel.lavdari95@myhunter.cuny.edu
 #Date: November 26, 2024
 # Hurricane turtle
 
@@ -64,4 +63,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
